@@ -4,4 +4,4 @@
 		   the dissipative propagation of the reduced density matrix.
 
 @ Notes:	1 Tanimura and Kubo, 1989
-			2 Just google Yijing Yan, or Qiang Shi, or Ishizaki, who are all important HEOM experts.
+			2 Just google Yijing Yan, or Qiang Shi, or Ishizaki. These guys have contributed a lot to HEOM.
